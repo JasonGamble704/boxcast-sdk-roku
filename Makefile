@@ -25,8 +25,8 @@
 # 3) If you want, you can also set DEVPASSWORD in your environment so that
 #    you don't need to type in your password for each install.
 ##########################################################################
-APPNAME = my_boxcast_roku_app
-VERSION = 1.0
+APPNAME = FBC_of_the_Islands
+VERSION = 2.0
 
 ZIP_EXCLUDE = -x .\* -x \*\# -x xml/* -x artwork/* -x \*.pkg -x storeassets\* -x keys\* -x README* -x apps\* -x app.mk -x *.sketch -x *.swp -x packages\* -x screenshot*
 
