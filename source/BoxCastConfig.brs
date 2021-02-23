@@ -10,17 +10,17 @@ Function BoxCastConfig() As Object
     Theme: {
       OverhangLogoUri:  "pkg:/images/logo.png"
       OverhangTitle:    ""
-      BackgroundColor:  "#336699"
+      BackgroundColor:  "#092934"
       AccentColor:      "#CCCCCC"
     }
 
     Account: {
-      id:           "DEMOAMYR"
-      name:         "Testing"
-      description:  ""
+      id:           "xlwbstgitabnrfzfz3bc"
+      name:         "First Baptist Church of the Islands"
+      description:  "Watch services LIVE and On-Demand from First Baptist Church of the Islands in Savannah, GA. Find out more about our church at www.fbcislands.com."
       thumb:        {src: ""}
       market:       ""
-      channel_id:   "JLp4ZFFDfDgCKWEpXIk5"
+      channel_id:   "zq95n7g87ah6qbwnwyku"
     }
   }
   return this
